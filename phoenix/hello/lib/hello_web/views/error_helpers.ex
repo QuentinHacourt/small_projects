@@ -16,7 +16,7 @@ defmodule HelloWeb.ErrorHelpers do
       )
     end)
   end
-
+  
   @doc """
   Translates an error message using gettext.
   """
