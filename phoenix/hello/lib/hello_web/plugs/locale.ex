@@ -13,5 +13,5 @@ defmodule HelloWeb.Plugs.Locale do
         assign(conn, :locale, default)
     end
 
-    
+
 end

@@ -12,6 +12,7 @@
                         'Elixir.HelloWeb.HelloController',
                         'Elixir.HelloWeb.HelloView',
                         'Elixir.HelloWeb.LayoutView',
+                        'Elixir.HelloWeb.MyFallBackController',
                         'Elixir.HelloWeb.PageController',
                         'Elixir.HelloWeb.PageView',
                         'Elixir.HelloWeb.Plugs.Locale',
