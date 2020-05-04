@@ -18,6 +18,7 @@ Phoenix is a web development framework based on the functional programming langu
 
 - [Getting started with elixir](https://elixir-lang.org/getting-started/introduction.html)
 - [Phoenix official docs](https://hexdocs.pm/phoenix/Phoenix.html)
+- [Learning elixir video series](https://www.youtube.com/watch?v=7bvntqrHLgM)
 
 ## Spring (boot)
 
